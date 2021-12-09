@@ -1,0 +1,14 @@
+# Photo Album CLI
+
+## Setup Steps
+1. Clone repo
+2. `cd` into repo
+3. `npm install` or `npm install --include=dev` if you want to run tests.
+4. `npm install -g .` to install the cli
+5. Run `getphotos album ALBUM_ID(1, 2, 3, e.t.c)`
+
+Example command:
+```
+# returns photos from album with id of 1
+getphotos album 1
+```
