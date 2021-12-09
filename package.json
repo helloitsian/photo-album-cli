@@ -1,5 +1,5 @@
 {
-  "name": "get-photos",
+  "name": "photo-album-cli",
   "version": "1.0.0",
   "author": "Ian Murawski",
   "type": "module",
